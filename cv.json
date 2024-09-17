@@ -46,7 +46,18 @@
         "highlights": [
             "Started the company"
         ]
-    }],
+    },
+    {
+        "name": "Raul Nogales",
+        "position": "Vendedor",
+        "url": null,
+        "startDate": "2024-07-08",
+        "endDate": "2024-10-07",
+        "summary": "Vendedor 6 horas al dia 4 dias a la semana",
+        "highlights": [
+            "Started the company"
+        ]
+        }],
     "education": [
     {
         "institution": "Instituto",
@@ -81,7 +92,12 @@
             "Entornos de Desarrollo",
             "Lenguajes de Marca y Sistema de Gestión de Datos",
             "Sistemas Informáticos",
-            "FOL"
+            "FOL",
+            "Desarrollo web en Entorno Cliente",
+            "Desaroollo web en Entorno Servidor",
+            "Desarrollo de interfaces web",
+            "Despliegue de aplicaciones web",
+            "Empresa e iniciación emprededora"
         ]
     }],
     "skills": [{
